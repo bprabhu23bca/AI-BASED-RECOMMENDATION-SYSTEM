@@ -81,6 +81,14 @@ This project demonstrates how AI recommendation systems can be built from scratc
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/2b3d85a3-958e-49a0-94c6-38df74a26621)
+
+![Image](https://github.com/user-attachments/assets/1da42d8c-4743-42e0-9aa7-4b1f87bbfdac)
+
+![Image](https://github.com/user-attachments/assets/80e07f48-23b2-498e-8592-6029da0156d8)
+
+![Image](https://github.com/user-attachments/assets/0b65db3b-0dc3-4dc5-b7a1-c315342e5174)
+
 
 
 The future scope of such systems is enormous. From business and entertainment to healthcare and education, recommendation systems will continue to expand, making decision-making easier and more efficient for users worldwide. This project gave me a solid foundation for understanding how AI can be implemented practically and how it can evolve in the future.
